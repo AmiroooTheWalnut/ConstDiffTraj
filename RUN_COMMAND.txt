@@ -1,0 +1,1 @@
+/home/u23/amesmaieeli/miniconda3/envs/pytorchProj_main/bin/python3.12 ./main_pytorch.py
